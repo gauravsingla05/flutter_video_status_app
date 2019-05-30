@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1085870206614",
+    "firebase_url": "https://flutter-video-app.firebaseio.com",
+    "project_id": "flutter-video-app",
+    "storage_bucket": "flutter-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085870206614:android:ae09c8bd41090047",
+        "android_client_info": {
+          "package_name": "download.videostatus.punjabi.screen.full.hd.full.status.video.fluttervideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085870206614-g748ksi58ltjpnr4mct0728599thhcpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdog9QDYUENivpuRGwFJf3q7TontxBlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
