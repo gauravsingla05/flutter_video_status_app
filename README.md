@@ -4,6 +4,7 @@ This is video status entertainment app. The admin can upload the status videos f
 
 ## Getting Started
 
-* Upload all php files to the server.
-* Open lib>admin.dart
-* Replace http://192.168.43.187/ with your website name.
+* Open project->phpFiles directory.
+* Copy flutter directory along with all files into main directory of your website.
+* Open lib->admin.dart
+* Replace all http://192.168.43.187/ with your website address.
